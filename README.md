@@ -27,12 +27,13 @@ Faça o download do simulador MARS pelo link oficial:
         * Display Width: 512
         * Display Height: 512
         * Clique em Connect to MIPS
-Ainda na aba Tools, abra:
-Keyboard and Display MMIO Simulator
-Clique em Connect to MIPS
-Vá até a aba Run:
-Clique em Assemble
-Em seguida, clique em Go
+- Ainda na aba Tools, abra:
+    - Keyboard and Display MMIO Simulator
+        * Clique em Connect to MIPS
+- Vá até a aba Run:
+    - Clique em Assemble
+    - Em seguida, clique em Go
+    
 Após esses passos, o jogo será iniciado corretamente.
 -----------------------------------------------------------------------
 🎮 Controles (Teclas):
